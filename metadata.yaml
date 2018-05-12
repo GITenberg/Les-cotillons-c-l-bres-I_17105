@@ -1,0 +1,33 @@
+_repo: Les-cotillons-c-l-bres-I_17105
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17105'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Court and courtiers -- History'
+- !lcsh 'France -- Kings and rulers -- Paramours -- Biography'
+- !lcsh 'Favorites, Royal -- France -- Biography'
+title: Les cotillons célèbres I
+url: http://www.gutenberg.org/ebooks/17105
